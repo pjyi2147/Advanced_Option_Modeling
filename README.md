@@ -1,4 +1,4 @@
-# Numeric Computation Financial Modeling
+# Numeric Computation for Financial Modeling
 
 ## Preface
 
